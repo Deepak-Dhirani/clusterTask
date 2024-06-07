@@ -1,0 +1,3 @@
+- Python 3.x installed on your machine.
+- Django installed (`pip install django`).
+- A virtual environment tool (optional but recommended).
